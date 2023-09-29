@@ -1,8 +1,27 @@
-# React + Vite
+![unsplash image search app](./public/Screenshot.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Welcome 👋
+# Unsplash image search app
 
-Currently, two official plugins are available:
+<div align="center">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="" style="width: 120px">
+
+</div>
+
+
+I picked ReactJS for this project. Used plain CSS, didn't pick any CSS library cause this was a very short CSS code.
+
+
+## Built with
+- Semantic HTML5 markup
+- Vanilla CSS
+- Unsplash API
+- ReactJS
+- React Query
+- React icons
+
+
+## Project Live URL
+
+See here the live project: [click here](https://unsplash-image-search-alpha.vercel.app/)
