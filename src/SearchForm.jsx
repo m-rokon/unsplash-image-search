@@ -5,7 +5,7 @@ const SearchForm = () => {
     const handleSubmit = (e) => {
         e.preventDefault();
         const searchText = e.target.elements.search.value;
-        if (!e.target.elements.search.value) return;
+        if (!searchText) return;
         setSearchTerm(searchText);
     };
     return (
