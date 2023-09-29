@@ -1,9 +1,13 @@
-import { useState } from "react";
+import SearchForm from "./SearchForm";
+import ThemeToggle from "./ThemeToggle";
+import Gallery from "./Gallery";
 
 function App() {
     return (
-        <main>
-            <h2>Unsplash images project</h2>
+        <main className="container">
+            <ThemeToggle />
+            <SearchForm />
+            <Gallery />
         </main>
     );
 }
